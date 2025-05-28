@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "simple_music_discs:item/plyta_muzyczna_c418_-_dog_mc"
+  }
+}

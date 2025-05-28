@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "simple_music_discs:item/music_disc_-_flake_-_c418"
+  }
+}
